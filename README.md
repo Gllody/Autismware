@@ -1,16 +1,5 @@
 > Autismware is based on [ThunderHack-Recode](https://github.com/Pan4ur/ThunderHack-Recode).
 
-<div align="center">
-<div align="center">
-[![Discord Mine](https://img.shields.io/discord/1140266441082404924?label=discord&logo=discord&logoColor=white)](https://discord.gg/PvBhPWdkVD)
-</div>
-
-
-# Cya 04.04.23 - 9.10.24 project!
-<div align="center">
-<img src="assets/U03-01-20-U12-05-01-14.png">
-</div>
-
 ## Information
 
 - Minecraft version: ```Fabric``` 1.21 (or whatever version's the latest)
